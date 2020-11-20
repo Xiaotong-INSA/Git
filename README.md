@@ -1,3 +1,3 @@
 My new projct
-next task
+- [x] next task
 next fature
